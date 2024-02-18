@@ -1,5 +1,5 @@
 print("Hello, World!")
-a = "Refael"
+a = "Rafi"
 b = "Admoni"
 print(a + " " + b)
 
